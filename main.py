@@ -1,2 +1,2 @@
-# bot for studying chemistry
-y
+# bot for studying chemistry or bio
+
